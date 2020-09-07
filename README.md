@@ -28,3 +28,6 @@ The ChatBot code creates a dialogue where users can ask questions about some asp
 2. Make a build directory in the top level directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
 4. Run it: `./membot`.
+
+## Keywords:
+C++, OOP, Rvalue and Lvalue References, Pointers, Shared Pointers, Unique Pointers, Heap Memory, Optimized
